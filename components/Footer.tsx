@@ -15,7 +15,7 @@ export default function Footer({
         {showDisclaimer && (
           <p className="mb-4 text-xs tracking-wide bg-amber-50 inline-block px-3 py-1 rounded-full text-amber-800/80 border border-amber-200/50">
             Nội dung có thể thiếu sót. Vui lòng đóng góp để gia phả chính xác
-            hơn.
+            hơn. Cảm ơn!
           </p>
         )}
         <p className="flex items-center justify-center gap-2 opacity-80 hover:opacity-100 transition-opacity">
