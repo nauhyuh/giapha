@@ -12,12 +12,6 @@ Phù hợp với người Việt Nam.
 - **Xác thực và Phân quyền**: Tích hợp với Supabase Auth. Dữ liệu thành viên nhạy cảm (số điện thoại, nơi ở...) được bảo mật bằng Row Level Security (RLS) của PostgreSQL, chỉ Admin mới có quyền truy cập và chỉnh sửa.
 - **Hỗ trợ Thiết bị di động**: Giao diện (UI/UX) tối ưu và phản hồi trên các thiết bị di động.
 
-## Demo
-
-- Demo: [giapha-os.homielab.com](https://giapha-os.homielab.com)
-- Tài khoản: `giaphaos@homielab.com`
-- Mật khẩu: `giaphaos`
-
 ## Hình ảnh Giao diện
 
 ![Danh sách](docs/screenshots/list.png)
